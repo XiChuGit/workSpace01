@@ -19,7 +19,7 @@ import java.io.IOException;
 @RunWith(SpringRunner.class)
 public class TestFastDFS {
     public static void main(String[] args) {
-
+        System.out.println("第一次修改");
     }
     //上传文件
     @Test
