@@ -23,6 +23,7 @@ public class TestFastDFS {
         System.out.println("第二次修改");
         System.out.println("第三次修改");
         System.out.println("SVN提交");
+        System.out.println("SVN提交第二次");
 
     }
     //上传文件
